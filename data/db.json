@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Learn Vue.js",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Read about JSON Server",
+      "completed": true
+    },
+    {
+      "id": "4b09",
+      "title": "learn router",
+      "completed": false
+    },
+    {
+      "id": "4c39",
+      "title": "hello test ",
+      "completed": false
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "nom": "Learn Vue.js",
+      "prenom": "Learn Vue.js"
+    },
+    {
+      "id": "2",
+      "nom": "Read about JSON Server",
+      "prenom": "Learn Vue.js"
+    },
+    {
+      "id": "3",
+      "nom": "Read about laravel",
+      "prenom": "Learn Vue.js"
+    }
+  ]
+}
